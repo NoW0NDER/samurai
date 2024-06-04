@@ -1,0 +1,7 @@
+setup.py
+samurai.egg-info/PKG-INFO
+samurai.egg-info/SOURCES.txt
+samurai.egg-info/dependency_links.txt
+samurai.egg-info/top_level.txt
+spirits/__init__.py
+spirits/_main.py
